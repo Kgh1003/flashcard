@@ -74,3 +74,7 @@ npm run preview # preview production build locally
 ## License
 
 This project is for educational and learning purposes.
+
+## Project URL
+
+https://roadmap.sh/projects/flash-cards
